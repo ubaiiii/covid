@@ -1,0 +1,16 @@
+pandas
+streamlit
+plotly.express
+
+io
+requests
+datetime
+
+st_aggrid
+AgGrid
+GridUpdateMode
+JsCode
+
+st_aggrid.grid_options_builder
+GridOptionsBuilder
+
