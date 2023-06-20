@@ -16,7 +16,7 @@ st.set_page_config("Covid-19 Dashboard", page_icon=":bar_chart:", layout="wide")
 
 # All
 # https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv
-# https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv
+# https://raw.githubusercontent.co/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv
 
 # URL of the CSV file
 @st.cache_data()

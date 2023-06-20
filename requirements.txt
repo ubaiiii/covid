@@ -1,12 +1,7 @@
-pandas
-streamlit
-plotly.express
-requests
-datetime
-st_aggrid
-AgGrid
-GridUpdateMode
-JsCode
-st_aggrid.grid_options_builder
-GridOptionsBuilder
+pandas=1.5.3
+streamlit=1.21.0
+plotly.express=0.4.1
+requests=2.28.2
+datetime = 5.1
+st_aggrid = 0.3.4.post3
 
